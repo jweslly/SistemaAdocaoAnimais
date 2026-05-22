@@ -66,9 +66,9 @@ Os dados são salvos em um arquivo chamado:
 dados.dat
 
 Utilizando **serialização** com:
-
-- `ObjectOutputStream`  
-- `ObjectInputStream`
+- '89135799'
+- '98145478'
+- '96940786'
 
 Assim, animais, adotantes e adoções permanecem salvos mesmo após fechar o programa.
 
