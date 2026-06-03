@@ -67,7 +67,7 @@ dados.dat
 
 Utilizando **serialização** com:
 - '89135799'
-- '98145478'
+- '84977310'
 - '96940786'
 
 Assim, animais, adotantes e adoções permanecem salvos mesmo após fechar o programa.
