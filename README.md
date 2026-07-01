@@ -69,6 +69,7 @@ Utilizando **serialização** com:
 - '89135799'
 - '84977310'
 - '96940786'
+- '82307228'
 
 Assim, animais, adotantes e adoções permanecem salvos mesmo após fechar o programa.
 
